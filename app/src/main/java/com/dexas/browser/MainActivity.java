@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
     Button reloadButton;
     Button forwardButton;
 
-    final String HOME = "https://www.google.com";
+    final String HOME = "file:///android_asset/home.html";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
