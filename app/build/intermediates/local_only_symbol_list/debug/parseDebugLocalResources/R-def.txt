@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id backButton
+id forwardButton
+id goButton
+id homeButton
+id reloadButton
+id urlBar
+id webView
+layout activity_main
+style AppTheme
